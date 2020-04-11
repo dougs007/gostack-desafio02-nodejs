@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#nut_and_bolt-testes">Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -25,6 +26,15 @@
 Nesse desafio, foi criado uma aplicação em Node.js para aplicar os conhecimentos vistos no bootcamp!
 
 Para visualizar a proposta, clique [aqui](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [NodeJS](https://nodejs.org/en/)
+- [Jest](https://jestjs.io/docs/en/getting-started)
+- [Express](http://expressjs.com/en/4x/api.html)
+
 
 ## 🤔 Como contribuir
 
